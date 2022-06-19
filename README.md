@@ -29,6 +29,14 @@
 
 ***
 
+## Базы данных
+
+### Connection string
+
+- https://www.connectionstrings.com/
+
+***
+
 ## Алгоритмы
 
 ### Начальный уровень
