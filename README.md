@@ -7,16 +7,48 @@
 - Скотт Мэйерс. Эффективное использование C++. 55 верных способов улучшить структуру и код ваших программ
 
 
+<<<<<<< Updated upstream
 ## C#
+=======
+- [azoyan/cpp-code-style-guide](https://gist.github.com/azoyan/b545f7b926f1f7fb40f8c285e3f5c545)
+- [90 рекомендаций по стилю](https://habr.com/ru/post/172091/)
+- [Стенфордский code style](https://tproger.ru/translations/stanford-cpp-style-guide/)
+- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+
+***
+
+## ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+>>>>>>> Stashed changes
 
 - Дж.Рихтер. CLR via C#
 
 
+<<<<<<< Updated upstream
 ## HTML+CSS
+=======
+## ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) :two_men_holding_hands: ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+>>>>>>> Stashed changes
 
 - Кириченко А, Хрусталев А. HTML5 + CSS3. Основы современного дизайна
-- Купер Н. - Как создать сайт. Комикс-путеводитель по HTML, CSS и WordPress -2019
+- Купер Н. Как создать сайт. Комикс-путеводитель по HTML, CSS и WordPress -2019
 
+<<<<<<< Updated upstream
+=======
+***
+
+## Базы данных
+
+## Книги
+
+- Карвин Б. Программирование баз данных SQL. Типичные ошибки и их устранение
+- Ицик Бен-Ган. Microsoft SQL Server 2012. Основы T-SQL
+
+### Connection string
+
+- [The Connection Strings Reference](https://www.connectionstrings.com/)
+
+***
+>>>>>>> Stashed changes
 
 ## Алгоритмы
 
