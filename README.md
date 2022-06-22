@@ -22,7 +22,7 @@
 
 ***
 
-## ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) :two_men_holding_hands: ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+## ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) & ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 - Кириченко А, Хрусталев А. HTML5 + CSS3. Основы современного дизайна
 - Купер Н. Как создать сайт. Комикс-путеводитель по HTML, CSS и WordPress -2019
