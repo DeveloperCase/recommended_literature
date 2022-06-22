@@ -7,12 +7,12 @@
 - Скотт Мэйерс. Эффективное использование C++. 55 верных способов улучшить структуру и код ваших программ
 - Доусон М. Изучаем C++ через программирование игр
 
-### code style
+### Code style
 
-- https://gist.github.com/azoyan/b545f7b926f1f7fb40f8c285e3f5c545
-- https://habr.com/ru/post/172091/
-- https://tproger.ru/translations/stanford-cpp-style-guide/
-- https://google.github.io/styleguide/cppguide.html
+- [azoyan/cpp-code-style-guide](https://gist.github.com/azoyan/b545f7b926f1f7fb40f8c285e3f5c545)
+- [90 рекомендаций по стилю](https://habr.com/ru/post/172091/)
+- [Стенфордский code style](https://tproger.ru/translations/stanford-cpp-style-guide/)
+- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
 ***
 
@@ -22,18 +22,23 @@
 
 ***
 
-## ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+## ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) :two_men_holding_hands: ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 - Кириченко А, Хрусталев А. HTML5 + CSS3. Основы современного дизайна
-- Купер Н. - Как создать сайт. Комикс-путеводитель по HTML, CSS и WordPress -2019
+- Купер Н. Как создать сайт. Комикс-путеводитель по HTML, CSS и WordPress -2019
 
 ***
 
 ## Базы данных
 
+### Книги
+
+- Карвин Б. Программирование баз данных SQL. Типичные ошибки и их устранение
+- Ицик Бен-Ган. Microsoft SQL Server 2012. Основы T-SQL
+
 ### Connection string
 
-- https://www.connectionstrings.com/
+- [The Connection Strings Reference](https://www.connectionstrings.com/)
 
 ***
 
@@ -73,4 +78,4 @@
 
 ## Похожие списки
 
-- https://github.com/EbookFoundation/free-programming-books
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
