@@ -32,7 +32,7 @@
 
 #### Code style
 
-- [PEP 8 (eng)](https://peps.python.org/pep-0008/)
+- [PEP 8 (eng, оригинал)](https://peps.python.org/pep-0008/)
 - [PEP 8 (рус, вольный перевод)](https://pythonpip.ru/osnovy/pep-8-v-python-pravila-dlya-idealnogo-koda)
 
 #### Сборники проектов и задач
